@@ -35,6 +35,7 @@
 		25A92ED42815D14400DF1907 /* WeatherDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A92ED32815D14400DF1907 /* WeatherDetailViewModel.swift */; };
 		25FC29A52815E7A9001FE9F2 /* SSTwoo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25FC29A32815E7A9001FE9F2 /* SSTwoo.jpg */; };
 		25FC29A82815E84B001FE9F2 /* SSOne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25FC29A72815E84B001FE9F2 /* SSOne.jpg */; };
+		25FC29AA2815E8C5001FE9F2 /* SSList.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25FC29A92815E8C5001FE9F2 /* SSList.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		25A92ED32815D14400DF1907 /* WeatherDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailViewModel.swift; sourceTree = "<group>"; };
 		25FC29A32815E7A9001FE9F2 /* SSTwoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SSTwoo.jpg; sourceTree = "<group>"; };
 		25FC29A72815E84B001FE9F2 /* SSOne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SSOne.jpg; sourceTree = "<group>"; };
+		25FC29A92815E8C5001FE9F2 /* SSList.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SSList.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 			isa = PBXGroup;
 			children = (
 				25FC29A72815E84B001FE9F2 /* SSOne.jpg */,
+				25FC29A92815E8C5001FE9F2 /* SSList.jpg */,
 				25FC29A32815E7A9001FE9F2 /* SSTwoo.jpg */,
 				25A92EC72815958C00DF1907 /* WeatherApiResponse.json */,
 			);
@@ -261,6 +264,7 @@
 				25FC29A82815E84B001FE9F2 /* SSOne.jpg in Resources */,
 				25A92E9728157C5900DF1907 /* Preview Assets.xcassets in Resources */,
 				25A92EC82815958C00DF1907 /* WeatherApiResponse.json in Resources */,
+				25FC29AA2815E8C5001FE9F2 /* SSList.jpg in Resources */,
 				25A92E9428157C5900DF1907 /* Assets.xcassets in Resources */,
 				25FC29A52815E7A9001FE9F2 /* SSTwoo.jpg in Resources */,
 			);
