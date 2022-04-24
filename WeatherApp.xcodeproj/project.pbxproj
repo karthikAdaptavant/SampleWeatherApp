@@ -34,7 +34,7 @@
 		25A92ED22815A27500DF1907 /* Assemblies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A92ED12815A27500DF1907 /* Assemblies.swift */; };
 		25A92ED42815D14400DF1907 /* WeatherDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A92ED32815D14400DF1907 /* WeatherDetailViewModel.swift */; };
 		25FC29A52815E7A9001FE9F2 /* SSTwoo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25FC29A32815E7A9001FE9F2 /* SSTwoo.jpg */; };
-		25FC29A62815E7A9001FE9F2 /* SSTwo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25FC29A42815E7A9001FE9F2 /* SSTwo.jpg */; };
+		25FC29A82815E84B001FE9F2 /* SSOne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 25FC29A72815E84B001FE9F2 /* SSOne.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,7 +60,7 @@
 		25A92ED12815A27500DF1907 /* Assemblies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assemblies.swift; sourceTree = "<group>"; };
 		25A92ED32815D14400DF1907 /* WeatherDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailViewModel.swift; sourceTree = "<group>"; };
 		25FC29A32815E7A9001FE9F2 /* SSTwoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SSTwoo.jpg; sourceTree = "<group>"; };
-		25FC29A42815E7A9001FE9F2 /* SSTwo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SSTwo.jpg; sourceTree = "<group>"; };
+		25FC29A72815E84B001FE9F2 /* SSOne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SSOne.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,7 +164,7 @@
 		25A92EC62815957600DF1907 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
-				25FC29A42815E7A9001FE9F2 /* SSTwo.jpg */,
+				25FC29A72815E84B001FE9F2 /* SSOne.jpg */,
 				25FC29A32815E7A9001FE9F2 /* SSTwoo.jpg */,
 				25A92EC72815958C00DF1907 /* WeatherApiResponse.json */,
 			);
@@ -258,11 +258,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25FC29A82815E84B001FE9F2 /* SSOne.jpg in Resources */,
 				25A92E9728157C5900DF1907 /* Preview Assets.xcassets in Resources */,
 				25A92EC82815958C00DF1907 /* WeatherApiResponse.json in Resources */,
 				25A92E9428157C5900DF1907 /* Assets.xcassets in Resources */,
 				25FC29A52815E7A9001FE9F2 /* SSTwoo.jpg in Resources */,
-				25FC29A62815E7A9001FE9F2 /* SSTwo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
